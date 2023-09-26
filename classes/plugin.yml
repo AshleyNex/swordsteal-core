@@ -1,0 +1,4 @@
+name: ProjectSwordsteal
+version: '003-development_api'
+main: me.projectswordsteal.org.projectswordsteal.ProjectSwordsteal
+api-version: '1.19'
