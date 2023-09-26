@@ -1,4 +1,0 @@
-name: ProjectSwordsteal
-version: '${project.version}'
-main: me.projectswordsteal.org.projectswordsteal.ProjectSwordsteal
-api-version: '1.19'
